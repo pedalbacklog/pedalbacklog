@@ -8,7 +8,7 @@
   3. GitHub lo detecta automáticamente y lo muestra arriba de tu perfil,
      antes de la lista de repositorios. No hay que configurar nada más.
 
-  Los comentarios como este bloque (entre <!-- y -->) NO se ven en la
+  Los comentarios como este bloque (entre <!- y -> (quito un guion en cada caso para que no se corte el comentario)) NO se ven en la
   página final — son notas solo para ti mientras editas. Puedes borrarlos
   cuando quieras, o dejarlos ahí sin problema, GitHub los ignora al renderizar.
 -->

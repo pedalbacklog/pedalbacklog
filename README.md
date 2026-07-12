@@ -79,7 +79,6 @@
   reto personal, o incluso enlazar tu perfil de Strava si quieres
   que la gente lo vea. Es opcional, pero le da personalidad al perfil.
 -->
-## 🚴 Fuera del código
 Cuando no estoy delante de una pantalla, probablemente esté sobre una bici. Iré compartiendo aquí algún que otro proyecto personal a medida que aprenda a moverme por GitHub.
 
 ---

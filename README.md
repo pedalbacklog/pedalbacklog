@@ -69,7 +69,8 @@
   Solo cambia "pedalbacklog" si algún día cambias de username.
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedalbacklog&show_icons=true&theme=default" alt="Estadísticas de GitHub de pedalbacklog"/>
+    <img src="https://img.shields.io/github/followers/pedalbacklog?style=social" alt="Seguidores de pedalbacklog en GitHub"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pedalbacklog&label=repos%20p%C3%BAblicos&query=public_repos&color=blue" alt="Repos públicos de pedalbacklog"/>
 </p>
 
 ## 🚴 Fuera del código

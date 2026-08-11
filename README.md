@@ -82,6 +82,10 @@
 -->
 Cuando no estoy delante de una pantalla, probablemente esté sobre una bici. Iré compartiendo aquí algún que otro proyecto personal a medida que aprenda a moverme por GitHub.
 
+<p align="center">
+  <img src="assets/test.gif" alt="Demo" width="600"/>
+</p>
+
 ---
 
 <p align="center"><i>Perfil en construcción — como todo buen backlog 😉</i></p>
